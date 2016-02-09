@@ -3,7 +3,7 @@
 #leigh@myhackerhouse.com
 import os, sys, time
 
-print("""\
+print("""
 ***************************************************
 *      0xDeMoN Reverse Shell Payload Creator      *
 ***************************************************
