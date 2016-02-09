@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#0xDeMoN Reverse Shell Payload CCreator
+#0xDeMoN Reverse Shell Payload Creator
 #leigh@myhackerhouse.com
 import os, sys, time
 
